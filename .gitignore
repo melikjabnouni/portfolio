@@ -36,11 +36,6 @@ yarn-error.log*
 # vercel
 .vercel
 
-# private assets — kept locally and on Vercel, not in public repo
-public/melik.png
-public/myphoto.png
-public/RESUME_Melik_Jabnouni.pdf
-
 # typescript
 *.tsbuildinfo
 next-env.d.ts
