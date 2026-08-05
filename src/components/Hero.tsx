@@ -180,7 +180,7 @@ export default function Hero() {
             Get in touch
           </a>
           <a
-            href="/Resume_Melik_Jabnouni.pdf"
+            href="/RESUME_Melik_Jabnouni.pdf"
             target="_blank"
             rel="noopener noreferrer"
             className="btn btn-ghost"
